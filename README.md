@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey+there!+I'm+Anupam+👋;Welcome+to+my+GitHub+profile;I+break+code+to+build+cool+stuff!" alt="Typing SVG" />
+</p>
 
-<!--
-**anup0206/anup0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Anupam 🏴‍☠️</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anupam-devx&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+```bash
+> uname -a
+Anupam@archlinux-hyperland
+-----------------------------
+💻 Currently learning: Python & Java
+🌐 Languages used: HTML5, CSS3, JavaScript, C, Python, Java
+🎯 Goal: Build powerful & minimal tools
+🎭 Fun Fact: The first programmer was a woman 🤯
