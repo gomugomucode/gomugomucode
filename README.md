@@ -28,3 +28,8 @@ Anupam@archlinux-hyperland
     “A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something else.”
     — Edward Elric
 ```
+
+```
+**🎌Anime Corner**
+<p align="center"> <img src="https://media.tenor.com/Y3ocHxLTLQ4AAAAC/one-piece-luffy.gif" height="200" /> <img src="https://i.pinimg.com/originals/62/1c/aa/621caa0d82c28bc52a6bc76c055ca9b8.gif" height="200" /> <img src="https://i.pinimg.com/originals/aa/8f/ff/aa8fff85f331893b3a2fa5c8a4d4d917.gif" height="200" /> </p>
+```
