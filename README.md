@@ -20,3 +20,10 @@ Anupam@archlinux-hyperland
 🌐 Languages used: HTML5, CSS3, JavaScript, C, Python, Java
 🎯 Goal: Build powerful & minimal tools
 🎭 Fun Fact: The first programmer was a woman 🤯
+
+**🧩Quote**
+```
+
+    “A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something else.”
+    — Edward Elric
+```
