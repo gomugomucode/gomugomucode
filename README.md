@@ -36,7 +36,7 @@ Anupam@archlinux-hyperland
 ###
 
 <div align="left">
-  <a href="https://www.facebook.com/amrit.bhattarai.3344/" target="_blank">
+  <a href="https://www.facebook.com/unish.06/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="" alt="facebook logo"  />
   <a href="https://www.instagram.com/amrit.010/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
@@ -44,15 +44,15 @@ Anupam@archlinux-hyperland
   <a href="https://www.linkedin.com/in/amrit-bhattarai-30ab42323/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
   </a>
-  <a href="https://www.patreon.com/nyxvoid" target="_blank">
+<!--   <a href="https://www.patreon.com/nyxvoid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="" alt="patreon logo"  />
   </a>
   <a href="https://dev.to/nyx-void" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="" alt="devto logo"  />
   </a>
   <a href="https://ko-fi.com/void44404#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="" alt="ko-fi logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="" alt="ko-fi logo"  /> -->
+<!--   </a> -->
 </div>
 
 ###
