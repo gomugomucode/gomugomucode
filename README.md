@@ -21,8 +21,9 @@ Anupam@archlinux-hyperland
 🎯 Goal: Build powerful & minimal tools
 🎭 Fun Fact: The first programmer was a woman 🤯
 
-**🧩Quote**
+
 ```
+**🧩Quote**
 
     “A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something else.”
     — Edward Elric
