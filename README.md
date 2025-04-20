@@ -80,26 +80,18 @@ Anupam@archlinux-hyperland
 
 ###
 
-<div align="left">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Anupam-DevX&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-
-<div align="left">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Anupam-DevX&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
-
-<div align="left">
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam-DevX&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<div align="left"> <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=anup0206&count_private=true&theme=react&border_radius=10" alt="streak stats"/> </div> 
+<div align="left"> <img width=390 src="https://github-readme-stats.vercel.app/api?username=anup0206&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> </div>
+<div align="left"> <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup0206&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </div>
 
 ###
 
 <h2 align="left">🐍 Contribution Graph</h2>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Anupam-DevX/Anupam-DevX/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
-
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anup0206/anup0206/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anup0206/anup0206/output/github-contribution-grid-snake.svg" /> 
+<img alt="github-snake" src="https://raw.githubusercontent.com/anup0206/anup0206/output/github-contribution-grid-snake.svg" /> </picture>
+ 
 ###
 
 <h2 align="left">💬 Terminal Vibes</h2>
