@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Anupam 🏴‍☠️</h1>
-###
+
 
 <p align="left">
   Just a chill dev who loves building, breaking, and fixing things.<br>
