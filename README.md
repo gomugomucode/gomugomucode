@@ -3,10 +3,15 @@
 </p>
 
 <h1 align="center">Hi, I'm Anupam 🏴‍☠️</h1>
+###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anupam-devx&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p align="left">
+  Just a chill dev who loves building, breaking, and fixing things.<br>
+  Arch Linux on Hyperland | Dark-themed everything | One Piece fan forever ⚓<br>
 </p>
+
+###
+
 
 ---
 
@@ -18,8 +23,10 @@ Anupam@archlinux-hyperland
 -----------------------------
 💻 Currently learning: Python & Java
 🌐 Languages used: HTML5, CSS3, JavaScript, C, Python, Java
+🌑 Vibe: Minimal, Terminal Aesthetic, Hacker Theme<br>
 🎯 Goal: Build powerful & minimal tools
 🎭 Fun Fact: The first programmer was a woman 🤯
+🏴‍☠️ Favorite Quote: "If you don’t take risks, you can’t create a future." – Monkey D. Luffy
 
 
 ```
@@ -29,32 +36,6 @@ Anupam@archlinux-hyperland
     — Edward Elric
 
 
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=Anupam-DevX&label=Profile%20views&color=0e75b6&style=flat" alt="Anupam-DevX" /> 
-</p>
-
-<h1 align="left">Yo 👋 I'm Anupam 🏴‍☠️</h1>
-
-###
-
-<p align="left">
-  Just a chill dev who loves building, breaking, and fixing things.<br>
-  Arch Linux on Hyperland | Dark-themed everything | One Piece fan forever ⚓<br>
-</p>
-
-###
-
-<h2 align="left">⚙️ About Me</h2>
-
-###
-
-<p align="left">
-  🧠 BCA 3rd Sem Student<br>
-  💻 Currently learning Java, JDBC, MySQL, Web Tech<br>
-  🛠️ Building a Java Student Registration System using Swing + JDBC<br>
-  🌑 Vibe: Minimal, Terminal Aesthetic, Hacker Theme<br>
-  🏴‍☠️ Favorite Quote: "If you don’t take risks, you can’t create a future." – Monkey D. Luffy
-</p>
 
 ###
 
@@ -69,7 +50,7 @@ Anupam@archlinux-hyperland
   <a href="https://www.instagram.com/amrit.010/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
-  <a href="mailto:anupamofficialdev@gmail.com" target="_blank">
+  <a href="mailto:alinedtwins@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
 </div>
@@ -89,7 +70,7 @@ Anupam@archlinux-hyperland
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<!--   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
 </div>
 
@@ -129,9 +110,9 @@ Anupam@archlinux-hyperland
 > whoami
 Anupam — Coder | Anime Fan | Hacker Vibes
 
-> socials --coming-soon
-LinkedIn: 👷‍ in progress
-Dev.to: 📝 pending
+> socials --coming-soon<br>
+LinkedIn: 👷‍ in progress<br>
+Dev.to: 📝 pending<br>
 Email: ask for it 😏
 hite"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
 
