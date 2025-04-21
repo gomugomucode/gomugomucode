@@ -72,7 +72,7 @@ Anupam@archlinux-hyperland
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" />
 <!--   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" /> -->
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
 
 </div>
@@ -109,4 +109,3 @@ Anupam — Coder | Anime Fan | Hacker Vibes
 LinkedIn: 👷‍ in progress<br>
 Dev.to: 📝 pending<br>
 Email: ask for it 😏
-  hite"/> 
