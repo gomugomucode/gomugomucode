@@ -23,7 +23,7 @@
 Anupam@archlinux-hyperland
 -----------------------------
 💻 Currently learning: Python & Java
-🌐 Languages used: HTML5, CSS3, JavaScript, C, Python, Java
+🌐 Languages used: HTML5, CSS3, JavaScript, C, Python, Java , Reactjs , Tailwind css
 🌑 Vibe: Minimal, Terminal Aesthetic, Hacker Theme<br>
 🎯 Goal: Build powerful & minimal tools
 🎭 Fun Fact: The first programmer was a woman 🤯
