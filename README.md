@@ -27,15 +27,14 @@ Anupam@archlinux-hyperland
 🌑 Vibe: Minimal, Terminal Aesthetic, Hacker Theme<br>
 🎯 Goal: Build powerful & minimal tools
 🎭 Fun Fact: The first programmer was a woman 🤯
-🏴‍☠️ Favorite Quote: "If you don’t take risks, you can’t create a future." – Monkey D. Luffy
+🏴‍☠️ Favorite Quote from anime  "If you don’t take risks, you can’t create a future." – Monkey D. Luffy
 
 
 ```
 **🧩Quote**
 
-    “A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something else.”
-    — Edward Elric
-
+    “Great code, like great stories, lives on forever.”
+  
 
 
 ###
