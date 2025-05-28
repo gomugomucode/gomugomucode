@@ -24,9 +24,10 @@ Anupam@archlinux-hyperland
 -----------------------------
 💻 Currently learning: Python & Java
 🌐 Languages used: HTML5, CSS3, JavaScript, C, Python, Java , Reactjs , Tailwind css
-🌑 Vibe: Minimal, Terminal Aesthetic, Hacker Theme<br>
+🌑 Vibe: Minimal, Terminal Aesthetic, Hacker Theme<
 🎯 Goal: Build powerful & minimal tools
-🎭 Fun Fact: The first programmer was a woman 🤯
+🎭 Fun Fact: 1) The first programmer was a woman 🤯
+                      2) I am a Pull-Stack Developer  btw
 🏴‍☠️ Favorite Quote from anime  "If you don’t take risks, you can’t create a future." – Monkey D. Luffy
 
 
