@@ -5,109 +5,110 @@
 
 <h1 align="center">Hi, I'm Anupam 🏴‍☠️</h1>
 
-
-<p align="left">
-  Just a chill dev who loves building, breaking, and fixing things.<br>
-  Arch Linux on Hyperland | Dark-themed everything | One Piece fan forever ⚓<br>
+<p align="center">
+  Arch Linux | DWM/Hyperland | Dark Theme Dev | One Piece Fan ⚓<br>
+  Full Stack Developer | Building minimal, powerful, & hacker-inspired tools
 </p>
 
-###
+---
+
+## 🧑‍💻 About Me
+
+-    🚀 Developer focused on building clean, efficient, and powerful tools
+
+ -   🧘‍♂️ Combines modern tech stacks with a traditional, old-school programming mindset
+
+ -  🛠️ Crafts minimalist solutions with maximum impact — elegant, precise, and disciplined
+
+-  🌐 Experienced in creating everything from responsive web apps to intelligent virtual assistants
+
+-    💻 Skilled in Python, Java, React, and beyond — always learning, always building
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-F80000?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+<!--   <img src="https://img.shields.io/badge/Swing-A100FF?style=for-the-badge&logo=java&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DWM-000000?style=for-the-badge&logo=windowmaker&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=apache&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<!--   <img src="https://img.shields.io/badge/XKill-5C5C5C?style=for-the-badge&logo=linux&logoColor=white" /> -->
+</p>
 
 
 ---
 
-## 🧠 About Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomugomucode&theme=react&border_radius=10" alt="GitHub Streak" width="350" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gomugomucode&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" width="350" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gomugomucode/gomugomucode/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
+</p>
+
+---
+
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/unish06/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:alinedtwins@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+
+---
+
+## 🧠 Terminal Logs
+
+<details>
+  <summary>📖 More About Me</summary>
 
 ```bash
-> uname -a
-Anupam@archlinux-hyperland
------------------------------
-💻 Currently learning: Python & Java
-🌐 Languages used: HTML5, CSS3, JavaScript, C, Python, Java , Reactjs , Tailwind css
-🌑 Vibe: Minimal, Terminal Aesthetic, Hacker Theme<
-🎯 Goal: Build powerful & minimal tools
-🎭 Fun Fact: 1) The first programmer was a woman 🤯
-                      2) I am a Pull-Stack Developer  btw
-🏴‍☠️ Favorite Quote from anime  "If you don’t take risks, you can’t create a future." – Monkey D. Luffy
-
-
-```
-**🧩Quote**
-
-    “Great code, like great stories, lives on forever.”
-  
-
-
-###
-
-<h2 align="left">🌐 Connect with Me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/unish06/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" />
-  </a>
-  <a href="mailto:alinedtwins@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" />
-  </a>
-</div>
-
-###
-
-<h2 align="left">🧰 I Code With</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-F80000?logo=java&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-</div>
-
-###
-
-<h2 align="left">🔥 GitHub Stats</h2>
-
-###
-
-<div align="left"> <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=anup0206&count_private=true&theme=react&border_radius=10" alt="streak stats"/> </div> 
-<div align="left"> <img width=390 src="https://github-readme-stats.vercel.app/api?username=anup0206&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> </div>
-<div align="left"> <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup0206&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </div>
-
-###
-
-<h2 align="left">🐍 Contribution Graph</h2>
-
-###
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anup0206/anup0206/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anup0206/anup0206/output/github-contribution-grid-snake.svg" /> 
-<img alt="github-snake" src="https://raw.githubusercontent.com/anup0206/anup0206/output/github-contribution-grid-snake.svg" /> </picture>
- 
-###
-
-<h2 align="left">💬 Terminal Vibes</h2>
-
-
-
-
 > whoami
-Anupam — Coder | Anime Fan | Hacker Vibes
+Anupam — Pull Stack Developer | Anime Fan | Hacker Vibes
 
-> socials --coming-soon<br>
-LinkedIn: 👷‍ in progress<br>
-Dev.to: 📝 pending<br>
-Email: ask for it 😏
+> uname -a
+anupam@archlinux-dwm-hyperland
+
+> sudo echo
+"I don’t just write code — I craft experiences."
+
+> echo $PHILOSOPHY
+"Break things. Fix them. Learn forever."
+
+> systemctl status motivation
+● motivation.service - Active: always 🔥
+
+> fortune | cowsay
+"Code like a pirate, deploy like a boss." 🏴‍☠️
+
+
