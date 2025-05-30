@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey+there!+I'm+Anupam+👋;Welcome+to+my+GitHub+profile;I+break+code+to+build+cool+stuff!" alt="Typing SVG" />
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=anup0206&label=Log%20Entry%20tracker&color=0e75b6&style=flat" alt="gomugomucode" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gomugomucode&label=Log%20Entry%20tracker&color=8A2BE2&style=flat-square" alt="gomugomucode" /> </p>
 
 <h1 align="center">Hi, I'm Anupam 🏴‍☠️</h1>
 
@@ -29,21 +29,19 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-F80000?logo=java&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-<!--   <img src="https://img.shields.io/badge/Swing-A100FF?style=for-the-badge&logo=java&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=FCC624&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DWM-000000?style=for-the-badge&logo=windowmaker&logoColor=white" />
+  <img src="https://img.shields.io/badge/DWM-000000?logo=windowmaker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=apache&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-<!--   <img src="https://img.shields.io/badge/XKill-5C5C5C?style=for-the-badge&logo=linux&logoColor=white" /> -->
 </p>
 
 
