@@ -3,26 +3,25 @@
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gomugomucode&label=Log%20Entry%20tracker&color=8A2BE2&style=flat-square" alt="gomugomucode" /> </p>
 
-<h1 align="center">Hi, I'm Anupam 🏴‍☠️</h1>
+<h1 align="center">Hi, I'm <strong>Anupam</strong> 🏴‍☠️</h1>
 
 <p align="center">
-  Arch Linux | DWM/Hyperland | Dark Theme Dev | One Piece Fan ⚓<br>
-  Full Stack Developer | Building minimal, powerful, & hacker-inspired tools
+  ⚡ Arch Linux | DWM / Hyperland<br>
+  🎯 Minimalist Dev | Hacker Vibes | One Piece ⚓<br>
+  🧠 BCA Student | Full Stack Developer | Dark Mode Evangelist
 </p>
+
 
 ---
 
 ## 🧑‍💻 About Me
 
--    🚀 Focused on building clean, efficient, and powerful tools
+- 🚀 Focused on building powerful, minimal, and maintainable software  
+- 🧘‍♂️ Combines modern tech stacks with a traditional, Unix-style dev philosophy  
+- 🛠️ Precision-driven: I value elegance, speed, and the command line  
+- 🌐 From intelligent virtual assistants to full-stack web platforms — I build with intent  
+- 💻 Fluent in Python, Java, React, and the art of breaking & fixing
 
- -   🧘‍♂️ Combines modern tech stacks with a traditional, old-school programming mindset
-
- -  🛠️ Crafts minimalist solutions with maximum impact — elegant, precise, and disciplined
-
--  🌐 Experienced in creating everything from responsive web apps to intelligent virtual assistants
-
--    💻 Skilled in Python, Java, React, and beyond — always learning, always building
 ---
 
 ## 🧰 Tech Stack
@@ -30,8 +29,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="" alt="c logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
@@ -45,10 +44,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
-
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomugomucode&theme=react&border_radius=10" alt="GitHub Streak" width="350" />
@@ -68,21 +66,19 @@
 
 ---
 
-
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/unish06/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/unish06/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:alinedtwins@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:alinedtwins@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
 
 ---
 
@@ -93,7 +89,7 @@
 
 ```bash
 > whoami
-Anupam — Pull Stack Developer | Anime Fan | Hacker Vibes
+Anupam — Full Stack Developer | Anime Fan | Hacker Vibes
 
 > uname -a
 anupam@archlinux-dwm-hyperland
@@ -109,5 +105,4 @@ anupam@archlinux-dwm-hyperland
 
 > fortune | cowsay
 "Code like a pirate, deploy like a boss." 🏴‍☠️
-
 
