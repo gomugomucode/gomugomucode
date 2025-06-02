@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
--    🚀 Developer focused on building clean, efficient, and powerful tools
+-    🚀 Focused on building clean, efficient, and powerful tools
 
  -   🧘‍♂️ Combines modern tech stacks with a traditional, old-school programming mindset
 
