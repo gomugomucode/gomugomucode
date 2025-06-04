@@ -6,9 +6,10 @@
 <h1 align="center">Hi, I'm <strong>Anupam</strong> 🏴‍☠️</h1>
 
 <p align="center">
-  ⚡ Arch Linux | DWM / Hyperland<br>
-  🎯 Minimalist Dev | Hacker Vibes | One Piece ⚓<br>
-  🧠 BCA Student | Full Stack Developer | Dark Mode Evangelist
+  🧠 BCA Student| Dark Mode Evangelist <br>
+  ⚡ Arch Linux | DWM / Hyperland / River <br>
+  🎯 Minimalist Dev | Hacker Vibes | One Piece ⚓
+  
 </p>
 
 
