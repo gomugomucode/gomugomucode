@@ -54,8 +54,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomugomucode&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gomugomucode&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomugomucode&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
+
+
 
 ---
 
