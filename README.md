@@ -35,15 +35,15 @@
 
 - [**Minimalist Portfolio**](https://github.com/gomugomucode/minimalist-portfolio)  
   A fast, dark-mode portfolio built with React and TailwindCSS. Features dynamic content, contact form, and mobile responsiveness.  
-  <em>Skills:</em> React, TailwindCSS, Netlify, Figma
+  <em> Tech-Skills used:</em> React, TailwindCSS, Netlify, Figma
 
 - [**CLI Virtual Assistant**](https://github.com/gomugomucode/Jarvis)  
   Unix-style assistant for automating daily tasks and system management.  
-  <em>Skills:</em> Python, Linux, API integrations
+  <em>Tech-Skills used:</em> Python, Linux, API integrations
 
 - [**Anime Tracker Web App**](https://github.com/gomugomucode/anime-tracker)  
   Full-stack CRUD app to track favorite anime, with authentication and social features.  
-  <em>Skills:</em> Node.js, Express, MySQL, React
+  <em>Tech-Skills used:</em> Node.js, Express, MySQL, React
 
 ---
 
