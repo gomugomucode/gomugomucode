@@ -35,7 +35,7 @@
 
 - [**Minimalist Portfolio**](https://github.com/gomugomucode/minimalist-portfolio)  
   A fast, dark-mode portfolio built with React and TailwindCSS. Features dynamic content, contact form, and mobile responsiveness.  
-  <em> Tech-Skills used:</em> React, TailwindCSS, Netlify, Figma
+  <em> Tech-Skills used:</em> React, TailwindCSS, Versal
 
 - [**CLI Virtual Assistant**](https://github.com/gomugomucode/Jarvis)  
   Unix-style assistant for automating daily tasks and system management.  
