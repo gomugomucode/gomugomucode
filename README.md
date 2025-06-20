@@ -63,8 +63,6 @@ Git • Linux (Arch, DWM, Hyperland) • Neovim • XAMPP
 
 ---
 
-## 🧰 Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java" />
@@ -75,6 +73,8 @@ Git • Linux (Arch, DWM, Hyperland) • Neovim • XAMPP
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django" />
   <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=FCC624&style=for-the-badge" alt="Linux" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/DWM-000000?logo=windowmaker&logoColor=white&style=for-the-badge" alt="DWM" />
@@ -83,12 +83,12 @@ Git • Linux (Arch, DWM, Hyperland) • Neovim • XAMPP
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
 </p>
 
----
 
+---
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomugomucode&theme=react&border_radius=10" alt="GitHub Streak" width="350" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=gomugomucode&theme=react&border_radius=10" alt="GitHub Streak" width="350" />
 </p>
 
 <p align="center">
