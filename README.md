@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm <strong>Anupam</strong> 🏴‍☠️</h1>
 
 <p align="center">
-  <strong>Open Source Enthusiast | Full Stack Developer | Minimalist | One Piece Fan ⚓</strong>
+  <strong>Open Source Enthusiast |  Developer | Minimalist | One Piece Fan ⚓</strong>
   <br>
   🧠 BCA Student | Dark Mode Evangelist <br>
   ⚡ Arch Linux | DWM / Hyperland / River <br>
