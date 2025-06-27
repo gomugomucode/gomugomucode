@@ -88,7 +88,10 @@ Git • Linux (Arch, DWM, Hyperland) • Neovim • XAMPP
 ## 📈 GitHub Stats
 
 <p align="center">
- <img src="https://streak-stats.demolab.com/?user=gomugomucode&theme=react&border_radius=10" alt="GitHub Streak" width="350" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=gomugomucode&theme=react&border_radius=10" alt="GitHub Streak" />
+  </a>
+</p>
 
 </p>
 
