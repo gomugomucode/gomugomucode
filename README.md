@@ -40,11 +40,6 @@
 - [**CLI Virtual Assistant**](https://github.com/gomugomucode/Jarvis)  
   Unix-style assistant for automating daily tasks and system management.  
   <em>Tech-Skills used:</em> Python, Linux, API integrations
-
-- [**Anime Tracker Web App**](https://github.com/gomugomucode/anime-tracker)  
-  Full-stack CRUD app to track favorite anime, with authentication and social features.  
-  <em>Tech-Skills used:</em> Node.js, Express, MySQL, React
-
 ---
 
 ## 🛠️ Skills
