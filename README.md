@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey+there!+I'm+Anupam+👋;Welcome+to+my+GitHub+profile;I+break+code+to+build+cool+stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey+there!+I'm+ Anupam+👋;Welcome+to+my+GitHub+profile;I+break+code+to+build+cool+stuff!" alt="Typing SVG" />
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gomugomucode&label=Log%20Entry%20tracker&color=8A2BE2&style=flat-square" alt="gomugomucode" /> </p>
 <h1 align="center">Hi, I'm <strong>Anupam</strong> </h1>
