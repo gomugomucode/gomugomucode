@@ -51,7 +51,8 @@ Python • Java • C • JavaScript • PHP
 React • TailwindCSS • HTML5 • CSS3  
 
 **Backend & Database:**  
-Node.js • MySQL • REST APIs  
+Node.js • Express.js • MySQL • REST APIs  
+
 
 **Tools & OS:**  
 Git • Linux (Arch, DWM, Hyperland) • Neovim • XAMPP
@@ -66,6 +67,7 @@ Git • Linux (Arch, DWM, Hyperland) • Neovim • XAMPP
   <img src="https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask" />
@@ -77,6 +79,7 @@ Git • Linux (Arch, DWM, Hyperland) • Neovim • XAMPP
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="Neovim" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
 </p>
+
 
 
 ---
@@ -119,8 +122,8 @@ Git • Linux (Arch, DWM, Hyperland) • Neovim • XAMPP
   <a href="mailto:alinedtwins@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter/X" />
+  <a href="https://medium.com/@gomugomucode" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" />
   </a>
 </p>
 
