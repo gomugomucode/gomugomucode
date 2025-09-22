@@ -9,7 +9,7 @@
   <br>
   🧠 BCA Student | Dark Mode Evangelist <br>
   ⚡ Arch Linux | DWM / Hyperland / River <br>
-  🎯 Minimalist Dev | Hacker Vibes
+  🎯 Minimalist Dev 
 </p>
 
 <p align="center">
