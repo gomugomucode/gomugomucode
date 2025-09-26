@@ -40,14 +40,6 @@
 
 ---
 
-## 🐍 Contribution Graph (Snake)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gomugomucode/gomugomucode/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 - 🚀 Focused on building powerful, minimal, and maintainable software  
