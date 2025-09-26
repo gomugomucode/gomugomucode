@@ -12,26 +12,27 @@ jobs:
         uses: actions/checkout@v3
 
       # 🦑 General Metrics
-      - name: 🦑 General
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/general.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: header
-          base_indepth: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 2
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          plugin_notable: yes
-          plugin_discussions: yes
+- name: 🦑 General Metrics
+  uses: lowlighter/metrics@latest
+  with:
+    filename: metrics/general.svg
+    token: ${{ secrets.GITHUB_TOKEN }}
+    base: header
+    base_indepth: yes
+    config_order: base.header, isocalendar, languages, notable, discussions, topics
+    output_action: repo   # Important: push directly to repo
+    plugin_isocalendar: yes
+    plugin_languages: yes
+    plugin_languages_details: lines, bytes-size, percentage
+    plugin_languages_sections: most-used, recently-used
+    plugin_languages_indepth: yes
+    plugin_languages_limit: 2
+    plugin_topics: yes
+    plugin_topics_limit: 0
+    plugin_topics_mode: icons
+    plugin_notable: yes
+    plugin_discussions: yes
+
 
       # 🦑 Achievements
       - name: 🦑 Achievements
