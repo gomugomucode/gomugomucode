@@ -34,15 +34,15 @@ jobs:
     plugin_discussions: yes
 
 
-      # 🦑 Achievements
-      - name: 🦑 Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/achievements.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_fortune: yes
+      # # 🦑 Achievements
+      # - name: 🦑 Achievements
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics/achievements.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     plugin_achievements: yes
+      #     plugin_achievements_display: compact
+      #     plugin_fortune: yes
 
       # 🦑 Sponsors
       - name: 🦑 Sponsors
@@ -71,14 +71,16 @@ jobs:
           # plugin_music_limit: 9
 
       # 🐉 3D Contribution Graph
-      - name: 🐉 3D Contribution
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/contribution3d.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_3dcalendar: yes
-          plugin_3dcalendar_color: "#1f2937"
-          plugin_3dcalendar_limit: 365
+- name: 🐉 3D Contribution
+  uses: lowlighter/metrics@latest
+  with:
+    filename: metrics/contribution3d.svg
+    token: ${{ secrets.GITHUB_TOKEN }}
+    plugin_3dcalendar: yes
+    plugin_3dcalendar_color: "#1f2937"
+    plugin_3dcalendar_limit: 365
+    output_action: repo
+
 
       # Push metrics to repository
       - name: Commit & Push Metrics
