@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi, I'm Anupam 👋</h1>
-<h1 align="center">Hi, I'm Anupam 👋</h1>
 <p align="center">BCA Student • Open Source Enthusiast • Minimalist Dev</p>
 
 ---
