@@ -12,83 +12,63 @@ jobs:
         uses: actions/checkout@v3
 
       # 🦑 General Metrics
-- name: 🦑 General Metrics
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics/general.svg
-    token: ${{ secrets.GITHUB_TOKEN }}
-    base: header
-    base_indepth: yes
-    config_order: base.header, isocalendar, languages, notable, discussions, topics
-    output_action: repo   # Important: push directly to repo
-    plugin_isocalendar: yes
-    plugin_languages: yes
-    plugin_languages_details: lines, bytes-size, percentage
-    plugin_languages_sections: most-used, recently-used
-    plugin_languages_indepth: yes
-    plugin_languages_limit: 2
-    plugin_topics: yes
-    plugin_topics_limit: 0
-    plugin_topics_mode: icons
-    plugin_notable: yes
-    plugin_discussions: yes
-
-
-      # # 🦑 Achievements
-      # - name: 🦑 Achievements
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: metrics/achievements.svg
-      #     token: ${{ secrets.GITHUB_TOKEN }}
-      #     plugin_achievements: yes
-      #     plugin_achievements_display: compact
-      #     plugin_fortune: yes
+      - name: 🦑 General Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: gomugomucode
+          filename: metrics/general.svg
+          token: ${{ secrets.METRICS_TOKEN }} # Use your PAT
+          base: header
+          base_indepth: yes
+          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          output_action: commit
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 2
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          plugin_notable: yes
+          plugin_discussions: yes
 
       # 🦑 Sponsors
       - name: 🦑 Sponsors
         uses: lowlighter/metrics@latest
         with:
+          user: gomugomucode
           filename: metrics/sponsors.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_sponsors: yes
           plugin_sponsors_past: yes
           plugin_sponsorships: yes
           plugin_sponsorships_sections: amount
+          output_action: commit
 
       # 🦑 Medias (Anime / Music) - Commented Out
-      - name: 🦑 Medias
+      - name: 🦑 Medias (Commented)
         uses: lowlighter/metrics@latest
         with:
+          user: gomugomucode
           filename: metrics/medias.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_anilist: no
           plugin_music: no
+          output_action: commit
           # plugin_anilist_medias: anime
           # plugin_anilist_sections: favorites, characters
-          # plugin_anilist_limit: 2
-          # plugin_anilist_limit_characters: 22
           # plugin_music_playlist: ${{ secrets.PLAYLIST }}
-          # plugin_music_limit: 9
 
       # 🐉 3D Contribution Graph
-- name: 🐉 3D Contribution
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics/contribution3d.svg
-    token: ${{ secrets.GITHUB_TOKEN }}
-    plugin_3dcalendar: yes
-    plugin_3dcalendar_color: "#1f2937"
-    plugin_3dcalendar_limit: 365
-    output_action: repo
-
-
-      # Push metrics to repository
-      - name: Commit & Push Metrics
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add metrics/
-          git commit -m "Update GitHub metrics" || echo "No changes to commit"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 🐉 3D Contribution
+        uses: lowlighter/metrics@latest
+        with:
+          user: gomugomucode
+          filename: metrics/contribution3d.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_3dcalendar: yes
+          plugin_3dcalendar_color: "#1f2937"
+          plugin_3dcalendar_limit: 365
+          output_action: commit
