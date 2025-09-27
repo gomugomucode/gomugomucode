@@ -41,7 +41,6 @@
 </p>
 
 ---
-
 ### 📊 GitHub Metrics
 <p align="center">
   <img src="./metrics/general.svg" alt="General Metrics" width="100%"/>
@@ -49,7 +48,7 @@
 
 ### 🐉 3D Contribution / Snake
 <p align="center">
-  <img src="./dist/github-contribution-grid-snake.svg" alt="3D-style contribution snake" style="background: linear-gradient(135deg, #1f2937, #111827); border-radius: 10px;" width="100%" />
+  <img src="./dist/github-contribution-grid-snake.svg" alt="3D-style contribution snake" width="100%" />
 </p>
 
 ---
