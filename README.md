@@ -15,27 +15,16 @@
 </p>
 
 ---
-
 ### 📊 GitHub Metrics
 <p align="center">
   <img src="./metrics/general.svg" alt="General Metrics" width="100%"/>
 </p>
 
----
-
-### 🐉 3D Contribution Graph
+### 🐉 3D Contribution / Snake
 <p align="center">
-  <img src="./metrics/contribution3d.svg" alt="3D Contributions" width="100%"/>
+  <img src="./dist/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
 </p>
 
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="./dist/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</p>
-
----
 
 ### 📬 Connect
 <p align="center">
