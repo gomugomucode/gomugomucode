@@ -43,12 +43,13 @@ jobs:
           github_user_name: gomugomucode
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Commit & Push Snake
+      - name: Commit & Push Metrics
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "Update Snake graph"
-          add: "dist/*"
+          message: "Update metrics"
+          add: "metrics/*"
+          force: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
