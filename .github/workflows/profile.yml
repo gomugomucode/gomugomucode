@@ -2,7 +2,7 @@ name: Profile Metrics & Snake
 
 on:
   schedule:
-    - cron: "0 16 * * *"   # Run daily at 16:00 UTC
+    - cron: "0 16 * * *"   # daily 16:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -12,8 +12,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # 🦑 General Metrics
-      - name: General Metrics
+      # 🦑 General Metrics (lowlighter)
+      - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           user: gomugomucode
@@ -24,32 +24,21 @@ jobs:
           config_timezone: Asia/Kathmandu
           output_action: commit
 
-      # 🐉 3D Contribution Graph
-      - name: 3D Contribution
-        uses: lowlighter/metrics@latest
-        with:
-          user: gomugomucode
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics/contribution3d.svg
-          plugin_3dcalendar: yes
-          plugin_3dcalendar_color: "#1f2937"
-          plugin_3dcalendar_limit: 365
-          output_action: commit
-
-      # 🐍 Contribution Snake
-      - name: Snake Contribution
+      # 🐍 Snake Contribution (acts as 3D contribution)
+      - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: gomugomucode
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Commit & Push Metrics
+      # Commit & Push all changes safely
+      - name: Commit & Push All
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "Update metrics"
-          add: "metrics/*"
+          message: "Update metrics & snake contributions"
+          add: "metrics/*, dist/*"
           force: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
