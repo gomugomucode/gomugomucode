@@ -16,7 +16,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           user: gomugomucode
-          token: ${{ secrets.METRICS_TOKEN }}   # MUST be a PAT with repo + read:user
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/general.svg
           template: classic
           base: header, activity, community, repositories, metadata
