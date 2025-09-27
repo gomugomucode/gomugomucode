@@ -1,0 +1,31 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Contribution Snake
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: gomugomucode
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Commit & Push Snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Update contribution snake"
+          add: "dist/github-contribution-grid-snake.svg"
+          force: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
