@@ -18,25 +18,19 @@
 
 ---
 
+
 ## 📊 Metrics
-
 <p align="center">
-  <img src="metrics/general.svg" width="390" alt="General Metrics" />
-  <img src="metrics/achievements.svg" width="390" alt="Achievements" />
+  <img src="./metrics/general.svg" alt="GitHub Metrics" />
 </p>
 
+## 🕹️ 3D Contribution
 <p align="center">
-  <img src="metrics/sponsors.svg" width="390" alt="Sponsors" />
-  <img src="metrics/medias.svg" width="390" alt="Medias (Disabled)" />
+  <img src="./metrics/contribution3d.svg" alt="3D Contribution Graph" />
 </p>
 
----
 
-## 🐉 3D Contribution Graph
 
-<p align="center">
-  <img src="metrics/contribution3d.svg" alt="3D Contribution Graph" />
-</p>
 
 ---
 
