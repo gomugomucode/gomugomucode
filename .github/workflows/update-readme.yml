@@ -1,0 +1,49 @@
+# .github/workflows/update-readme.yml
+name: Update GitHub Metrics & 3D Snake
+
+on:
+  schedule:
+    - cron: "0 16 * * *" # Run daily at 16:00 UTC
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  update-metrics-snake:
+    runs-on: ubuntu-latest
+    steps:
+      # 1️⃣ Checkout the repository
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # 2️⃣ Generate General Metrics
+      - name: 🦑 Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: gomugomucode
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/general.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kathmandu
+          output_action: commit
+
+      # 3️⃣ Generate 3D Contribution Snake
+      - name: 🐉 Generate 3D Contribution / Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: gomugomucode
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 4️⃣ Commit & Push changes
+      - name: Commit & Push Updates
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add metrics/ dist/
+          git commit -m "Update Metrics & 3D Contribution Snake" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
