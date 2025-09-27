@@ -1,7 +1,8 @@
 name: Metrics
+
 on:
   schedule:
-    - cron: "0 16 * * *" # Daily at 16:00 UTC
+    - cron: "0 16 * * *"   # Run daily at 16:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -11,63 +12,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # 🦑 General Metrics
       - name: 🦑 General Metrics
         uses: lowlighter/metrics@latest
         with:
           user: gomugomucode
+          token: ${{ secrets.METRICS_TOKEN }}   # MUST be a PAT with repo + read:user
           filename: metrics/general.svg
-          token: ${{ secrets.METRICS_TOKEN }} # Use your PAT
-          base: header
-          base_indepth: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kathmandu
           output_action: commit
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 2
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          plugin_notable: yes
-          plugin_discussions: yes
 
-      # 🦑 Sponsors
-      - name: 🦑 Sponsors
+      - name: 🐉 3D Contribution Graph
         uses: lowlighter/metrics@latest
         with:
           user: gomugomucode
-          filename: metrics/sponsors.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: amount
-          output_action: commit
-
-      # 🦑 Medias (Anime / Music) - Commented Out
-      - name: 🦑 Medias (Commented)
-        uses: lowlighter/metrics@latest
-        with:
-          user: gomugomucode
-          filename: metrics/medias.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_anilist: no
-          plugin_music: no
-          output_action: commit
-          # plugin_anilist_medias: anime
-          # plugin_anilist_sections: favorites, characters
-          # plugin_music_playlist: ${{ secrets.PLAYLIST }}
-
-      # 🐉 3D Contribution Graph
-      - name: 🐉 3D Contribution
-        uses: lowlighter/metrics@latest
-        with:
-          user: gomugomucode
           filename: metrics/contribution3d.svg
-          token: ${{ secrets.METRICS_TOKEN }}
           plugin_3dcalendar: yes
           plugin_3dcalendar_color: "#1f2937"
           plugin_3dcalendar_limit: 365
