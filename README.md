@@ -33,9 +33,8 @@ Currently learning **Express.js** and exploring **AI workflows, automation, and 
 
 ### ⚙️ tech stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,nodejs,express,django,react,tailwind,html,css,mysql,php,linux,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,flask,java,c,js,nodejs,express,django,react,tailwind,html,css,mysql,php,linux,git&perline=7" />
 </p>
-
 ---
 
 ### 📊 system metrics
