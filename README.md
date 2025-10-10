@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=building+minimal+systems;open-source+enthusiast;dark+mode+forever;learning+express.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=building+minimal+systems;open-source+enthusiast;dark+mode+forever;learning+express.js+now" alt="Typing SVG" />
 </p>
 
 ---
@@ -79,3 +79,11 @@ exploring: cloud workflows & automation
 <p align="center">
   <sub>crafted in vim • powered by caffeine • designed for dark mode • © 2025</sub>
 </p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/unish06" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
+  </a>
+</p>
+
+
