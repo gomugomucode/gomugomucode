@@ -25,7 +25,7 @@ I’m **Anupam**, a developer who follows the *Unix philosophy* — small, compo
 Currently learning **Express.js** and exploring **AI workflows, automation, and cloud systems**.  
 
     mission: build tools that outlive trends
-    focus: backend • systems • minimal design
+    focused now on : backend • systems • minimal design
     mood: dark • steady • silent
 
 
