@@ -3,7 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=gomugomucode&label=Log%20Entries&color=8A2BE2&style=flat-square" alt="Visitor Count"/>
 </p>
 
-
 <!-- Intro -->
 <h1 align="center">>_ anupam.sh</h1>
 <p align="center">
@@ -11,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=building+minimal+systems;open-source+enthusiast;dark+mode+forever;learning+express.js+now" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=building+minimal+systems;open-source+enthusiast;dark+mode+forever;" alt="Typing SVG" />
 </p>
 
 ---
