@@ -64,12 +64,19 @@ exploring: cloud workflows & automation
 </p>
 
 ---
-
 ### 🌐 connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/unish06/">LinkedIn</a> •
-  <a href="mailto:alinedtwins@gmail.com">Gmail</a> •
-  <a href="https://medium.com/@gomugomucode">Medium</a>
+  <a href="https://www.linkedin.com/in/unish06/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(85%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(90%) contrast(90%);" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:alinedtwins@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="30" height="30" style="filter: invert(85%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(90%) contrast(90%);" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@gomugomucode" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" width="30" height="30" style="filter: invert(85%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(90%) contrast(90%);" />
+  </a>
 </p>
 
 ---
