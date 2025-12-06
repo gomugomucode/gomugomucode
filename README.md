@@ -4,10 +4,11 @@
   
 </p>
 
+
 <!-- Intro -->
 <h1 align="center">>_ anupam.sh</h1>
 <p align="center">
-  <i>minimalist developer • bca student • system builder</i>
+  <i>minimalist developer • BCA student • system builder</i>
 </p>
 
 <p align="center">
@@ -21,24 +22,24 @@
 
 ---
 
-### 💻 about
+### 💻 About
 I’m **Anupam**, a developer who follows the *Unix philosophy* — small, composable, and purposeful tools.  
-Currently learning **Express.js** and exploring **AI workflows, automation, and cloud systems**.  
+Currently learning **Express.js**, **TypeScript**, and exploring **AI workflows, automation, and cloud systems**.
 
-    mission: build tools that outlive trends
-    focused now on : backend • systems • minimal design
-    mood: dark • steady • silent
-
+- **Mission**: Build tools that outlive trends
+- **Focused on**: Backend, systems, minimal design
+- **Mood**: Dark, steady, silent
 
 ---
 
-### ⚙️ tech stack
+### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,java,c,js,nodejs,express,django,react,tailwind,html,css,mysql,php,linux,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,flask,java,c,js,nodejs,express,django,react,tailwind,html,css,mysql,php,linux,git,typescript&perline=7" />
 </p>
+
 ---
 
-### 📊 system metrics
+### 📊 System Metrics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gomugomucode&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gomugomucode&theme=tokyonight&hide_border=true" />
@@ -50,22 +51,21 @@ Currently learning **Express.js** and exploring **AI workflows, automation, and 
 
 ---
 
-### 🧠 current build
-
-learning: express.js & backend scaling
-project: minimal dev tools + ai utilities
-exploring: cloud workflows & automation
-
+### 🧠 Current Build
+- **Learning**: Express.js & backend scaling
+- **Project**: Minimal dev tools + AI utilities
+- **Exploring**: Cloud workflows & automation
 
 ---
 
-### 🐍 contribution flow
+### 🐍 Contribution Flow
 <p align="center">
   <img src="https://raw.githubusercontent.com/gomugomucode/gomugomucode/output/github-contribution-grid-snake.svg" alt="3D contribution snake animation" />
 </p>
 
 ---
-### 🌐 connect
+
+### 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/unish06/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(85%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(90%) contrast(90%);" />
@@ -82,7 +82,7 @@ exploring: cloud workflows & automation
 
 ---
 
-<h3 align="center">⚡ system status: always learning ⚡</h3>
+<h3 align="center">⚡ System Status: Always Learning ⚡</h3>
 
 <p align="center">
   <sub>crafted in vim • powered by caffeine • designed for dark mode • © 2025</sub>
@@ -93,5 +93,3 @@ exploring: cloud workflows & automation
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
   </a>
 </p>
-
-
