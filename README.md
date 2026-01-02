@@ -136,8 +136,8 @@ A simple Todo application built using Python web frameworks while learning backe
 ---
 
 ## 🐍 Contribution Flow
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gomugomucode/gomugomucode/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<p align="center"><img src="https://raw.githubusercontent.com/gomugomucode/gomugomucode/main/dist/github-contribution-grid-snake.svg" />
+
 </p>
 
 ---
