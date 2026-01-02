@@ -1,0 +1,47 @@
+# .github/workflows/profile-metrics-snake.yml
+name: Update Profile Metrics & Snake
+
+on:
+  schedule:
+    - cron: "0 16 * * *"   # Daily at 16:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # 🦑 Generate GitHub Metrics
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: gomugomucode
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/general.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kathmandu
+          output_action: commit
+
+      # 🐍 Generate Contribution Snake
+      - name: Generate Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: gomugomucode
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 🚀 Commit & Push
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add metrics/ dist/
+          git commit -m "Update metrics & contribution snake" || echo "No changes"
+          git push
