@@ -108,10 +108,12 @@ A simple Todo application built using Python web frameworks while learning backe
 
 ---
 
-## ⚙️ Tools & Technologies
+## ⚙️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,mysql,linux,git,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,nodejs,express,mysql,linux,git,github&perline=6" />
 </p>
+
 
 ---
 
