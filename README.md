@@ -68,7 +68,7 @@ A learning management system built while exploring full-stack structure and back
 - Backend-focused learning project
 - Work-in-progress system, improved step by step
 
-**Tech**: Node.js · Express · MongoDB / MySQL (learning phase)  
+**Tech**: Node.js · Express ·  Reactjs · MySQL (learning phase)  
 🔗 https://github.com/gomugomucode/elearn
 
 ---
