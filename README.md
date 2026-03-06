@@ -18,8 +18,6 @@
 
 * [**eLearn**](https://github.com/gomugomucode/elearn) – Full-stack learning management system (Node.js, React, MySQL).
 * [**Jarvis**](https://github.com/gomugomucode/Jarvis) – AI-driven automation assistant (Python).
-* [**TaskForge**](https://github.com/gomugomucode/TaskForge) – Task management backend API (Node.js, Express).
-* **AI Todo App** – Task manager integrating AI productivity logic (Python, Flask/Django).
 
 ---
 
