@@ -1,8 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Runs once a day
-    - cron: "0 18 * * *"
+  schedule: 
+    # Runs automatically every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch: # Allows you to run it manually
 
 jobs:
@@ -15,10 +16,24 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          
+      - name: Hide Bottom Stats
+        run: |
+          # This script draws a solid block over the bottom text to hide it
+          for file in profile-3d-contrib/*.svg; do
+            # Find the background color of the current generated image
+            BG_COLOR=$(grep -o '<rect width="1280" height="853" fill="[^"]*"' "$file" | head -n 1 | cut -d'"' -f6)
+            if [ -z "$BG_COLOR" ]; then BG_COLOR="#0d1117"; fi # Fallback dark color
+            
+            # Insert a rectangle matching the background over the bottom center area
+            sed -i "s|</svg>|<rect x=\"350\" y=\"790\" width=\"600\" height=\"63\" fill=\"$BG_COLOR\" /></svg>|" "$file"
+          done
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "Generated 3D Contribution Graph"
+          # Added a fallback so the action doesn't crash if there is no new code to commit
+          git commit -m "Generated 3D Contribution Graph" || echo "No changes to commit"
           git push
