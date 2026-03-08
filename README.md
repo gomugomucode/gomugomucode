@@ -32,22 +32,20 @@
 </p>
 
 ---
-
 ### 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/unish06/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="24" alt="LinkedIn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:alinedtwins@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="24" alt="Gmail"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@gomugomucode" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="24" alt="Medium"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" alt="Medium"/>
   </a>
 </p>
-
 <p align="center">
   <sub>learning slowly • building honestly • growing with time</sub>
 </p>
