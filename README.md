@@ -2,7 +2,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=gomugomucode&label=Log%20Entries&color=8A2BE2&style=flat-square" alt="Visitor Count"/>
 
-  <h1 align="center">Hi, I'm Anupam 🐍</h1>
+  <h1 align="center">Hi, I'm Anupam </h1>
 <p align="center">
   <i>BCA Student • Python Enthusiast • Web System Builder</i>
 </p>
