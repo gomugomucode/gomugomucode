@@ -17,7 +17,6 @@
 
 ### 🔭 Currently Working On
 * ⛓️ **Blockchain Development** – Building full-stack dApps and exploring the **Web3** ecosystem.
-* 👨‍🏫 **Mentorship** – Guiding first-semester **BCA students** at Butwal Kalika Campus through Web Design (HTML/CSS) fundamentals.
 * 🐍 **AI/ML Integration** – Implementing Machine Learning models into Python-based web systems.
 
 ---
