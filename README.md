@@ -15,7 +15,7 @@
 ---
 
 
-### 🔭 Currently Working On
+### 🔭 Currently Exploring
 
 * ⛓️ **Blockchain Development** – Building full-stack dApps and exploring the **Web3** ecosystem.
 * 🐍 **AI/ML Integration** – Implementing Machine Learning models into Python-based web systems.
