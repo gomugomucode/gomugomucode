@@ -42,7 +42,7 @@
 ---
 ### 🌐 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/unish06/" target="_blank">
+  <a href="https://www.linkedin.com/in/gomugomucode/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
