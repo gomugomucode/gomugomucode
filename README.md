@@ -4,7 +4,7 @@
 
   <h1 align="center">Hi, I'm Anupam </h1>
 <p align="center">
-  <i>BCA Student • Python Enthusiast • Web System Builder</i>
+  <i>IT Student  • Python Enthusiast • Web System Builder</i>
 </p>
 
 </p>
