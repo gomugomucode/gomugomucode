@@ -9,7 +9,7 @@
 
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,nodejs,express,mysql,linux,git,github&perline=12" alt="Tech Stack"/>
+ <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,nodejs,express,mysql,linux,git,github,rust&perline=14" />
 </p>
 
 ---
@@ -18,8 +18,8 @@
 ### 🔭 Currently Exploring
 
 * ⛓️ **Blockchain Development** – Building full-stack dApps and exploring the **Web3** ecosystem.
-* 🐍 **AI/ML Integration** – Implementing Machine Learning models into Python-based web systems.
-
+* 🐍 **AI/ML Integration** – Implementing Machine Learning models into Python-based systems.
+* ⚙️ **Low-Level Programming** – Learning systems programming with **Rust** and understanding memory management.
 ---
 
 ### 🛠️ Featured Projects
@@ -37,6 +37,12 @@
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomugomucode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+
+### 📊 Most Used Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomugomucode&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&title_color=ffffff&custom_title=Most%20Used%20Languages" />
 </p>
 
 ---
