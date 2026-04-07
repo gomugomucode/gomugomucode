@@ -24,7 +24,7 @@
 
 ### 🛠️ Featured Projects
 
-* [**ELearn**](https://github.com/gomugomucode/elearn) – Full-stack learning management system (Node.js, Express js , React, MySQL).
+* [**E-Learning**](https://github.com/gomugomucode/elearn) – Full-stack learning management system (Node.js, Express js , React, MySQL).
 * [**Jarvis**](https://github.com/gomugomucode/Jarvis) – AI-driven automation assistant (Python , Open AI API Key).
 
 ---
