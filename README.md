@@ -40,10 +40,10 @@
 </p>
 
 
-### 📊 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomugomucode&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&title_color=ffffff&custom_title=Most%20Used%20Languages" />
-</p>
+
+<!-- <p align="center"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomugomucode&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&title_color=ffffff&custom_title=Most%20Used%20Languages" />
+</p> -->
 
 ---
 ### 🌐 Connect
