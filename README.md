@@ -60,6 +60,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" alt="Medium"/>
   </a>
 </p>
+
 <p align="center">
-  <sub>learning slowly • building honestly • growing with time</sub>
+  <b><sub>learning slowly • building honestly • growing with time</sub></b>
 </p>
