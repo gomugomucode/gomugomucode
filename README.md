@@ -39,12 +39,12 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gomugomucode&theme=tokyonight&hide_border=true" alt="streak stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gomugomucode&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="readme stats" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gomugomucode&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="readme stats" /> -->
 </p>
 
-<p align="center">
+<!-- <p align="center"> 
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomugomucode&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" alt="top langs" />
-</p>
+</p>-->
 
 ---
 
