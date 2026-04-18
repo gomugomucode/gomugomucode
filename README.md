@@ -33,7 +33,7 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
----
+
 
 ### 📊 Stats
 
@@ -45,10 +45,6 @@
 <!-- <p align="center"> 
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomugomucode&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </p>-->
-
----
-
-
 
 
 
