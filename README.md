@@ -5,64 +5,109 @@
 
 <h1 align="center">Hi, I'm Anupam </h1>
 <p align="center">
-  <i>IT Student  • Python Enthusiast • Web System Builder</i>
+  <i>IT Student | Full Stack Web Developer | Python Developer | AI/ML Enthusiast | Web3 & Blockchain Learner</i>
 </p>
+
+## 🧭 Overview
+
+I am Anupam, a Full Stack Developer focused on building scalable, production-ready web systems and intelligent software solutions.
+
+I specialize in backend systems, modern frontend applications, and AI-integrated platforms with real-world impact.
+
+
+---
+
+### ⚙️ What I Build
+
+- 🌐 Scalable Full Stack Web Applications
+- 🧠 AI / ML-powered Systems & Automation
+- ⚙️ Backend APIs & Distributed Systems
+- ⛓️ Blockchain & Web3 Applications
+- 🧩 Developer Tools & System Utilities
+
+- ---
+
+### 🧠 Core Skills
+
+- Languages: Python, JavaScript, TypeScript, Rust
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Express, Django, Flask
+- Databases: MySQL, MongoDB
+- DevOps & Tools: Linux, Git, GitHub, Docker (basic)
+
+---
+
+
+### 🚀 Tech Stack
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,nodejs,express,mysql,linux,git,github,rust&perline=14" />
+ <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,nodejs,express,mysql,linux,git,github,rust&perline=5" />
 </p>
 
 ---
 
-### 🔭 Currently Exploring
-
-* ⛓️ **Blockchain Development** – Building full-stack dApps and exploring the **Web3** ecosystem.
-* 🐍 **AI/ML Integration** – Implementing Machine Learning models into Python-based systems.
-* ⚙️ **Low-Level Programming** – Learning systems programming with **Rust** and understanding memory management.
-
----
 
 ### 🛠️ Featured Projects
 
-* [**E-Learning**](https://github.com/gomugomucode/elearn) – Full-stack learning management system (Node.js, Express js , React, MySQL).
-* [**Jarvis**](https://github.com/gomugomucode/Jarvis) – AI-driven automation assistant (Python , Open AI API Key).
+-  **[E-Learning Platform (LMS)](https://github.com/gomugomucode/elearn)**  
+  Full-stack learning management system with authentication, course management, and admin dashboard.  
+  **Stack:** React · Node.js · Express · MySQL
+
+-  **[Jarvis AI Assistant)](https://github.com/gomugomucode/Jarvis)**  
+  AI-powered automation assistant for system tasks, APIs, and intelligent responses.
+  **Stack:** Python · OpenAI.js · API · Automation Scripts
+
+
 
 ---
 
-### 📈 Contribution Activity
+
+
+### 📈 Activity Graph
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
 
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomugomucode&theme=tokyo-night&hide_border=true" />
+</p> -->
 
-### 📊 Stats
+
+### 📊  GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gomugomucode&theme=tokyonight&hide_border=true" alt="streak stats"/>
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gomugomucode&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="readme stats" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gomugomucode&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- <p align="center"> 
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomugomucode&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" alt="top langs" />
-</p>-->
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomugomucode&theme=tokyonight" />
+</p> -->
 
 
-
-### 🌐 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/gomugomucode/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:alinedtwins@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@gomugomucode" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" alt="Medium"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gomugomucode&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <b><sub>learning slowly • building honestly • growing with time</sub></b>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomugomucode&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
+
+---
+
+### 📌 Current Focus
+
+🌐 Scalable Full Stack Web Applications
+🧠 AI / ML-powered Systems
+
+---
+
+### Connect With Me
+-  LinkedIn: https://www.linkedin.com/in/gomugomucode/
+-  Email: alinedtwins@gmail.com
+-  Medium: https://medium.com/@gomugomucode
+
+---
+
+### 🧾 Philosophy
+
+“Build systems that are simple, scalable, and production-ready.”
