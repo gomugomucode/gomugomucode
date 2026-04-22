@@ -96,8 +96,8 @@ I specialize in backend systems, modern frontend applications, and AI-integrated
 
 ### 📌 Current Focus
 
-🌐 Scalable Full Stack Web Applications
-🧠 AI / ML-powered Systems
+- 🌐 Scalable Full Stack Web Applications
+- 🧠 AI / ML-powered Systems
 
 ---
 
