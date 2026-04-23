@@ -55,7 +55,7 @@ Currently exploring **AI integration in real-world products** and **system desig
   Full-stack learning management system with authentication, course management, and admin dashboard.  
   **Stack:** React · Node.js · Express · MySQL
 
--  **[Jarvis AI Assistant)](https://github.com/gomugomucode/Jarvis)**  
+-  **[Jarvis AI Assistant](https://github.com/gomugomucode/Jarvis)**  
   AI-powered automation assistant for system tasks, APIs, and intelligent responses.
   **Stack:** Python · OpenAI.js · API · Automation Scripts
 
