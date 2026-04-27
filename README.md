@@ -107,7 +107,7 @@ Currently exploring **AI integration in real-world products** and **system desig
 
 ### Connect With Me
 -  LinkedIn: https://www.linkedin.com/in/gomugomucode/
--  Email: alinedtwins@gmail.com
+-  Email:contact@anupambaral.com.np
 -  Medium: https://medium.com/@gomugomucode
 
 ---
