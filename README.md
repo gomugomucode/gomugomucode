@@ -37,7 +37,7 @@ Currently exploring **AI integration in real-world products** and **system desig
  - **Languages:** Python, JavaScript, TypeScript, Rust  
  -  **Frontend:** React, HTML, CSS  
 -  **Backend:** Node.js, Express, Django, Flask  
-- **Database:** MySQL, MongoDB  
+- **Database:** MySQL, SQLlite3  
 -  **Tools:** Linux, Git, Docker (basic)
 
 
