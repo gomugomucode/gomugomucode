@@ -86,13 +86,11 @@ Currently exploring **AI integration in real-world products** and **system desig
 </p> -->
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomugomucode&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gomugomucode&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" width="325" />
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomugomucode&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p>
+
 
 ---
 
