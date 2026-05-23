@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Anupam 👋 </h1>
 <p align="center">
   <b> IT Student • Full Stack Developer • Python Engineer • AI Systems Builder</b><br/>
-  Building scalable web apps & intelligent software that solve real problems.
+  Focused on backend systems, AI automation, and scalable full-stack applications.
 </p>
 
 ## 🧭 About Me
@@ -37,7 +37,7 @@ Currently exploring **AI integration in real-world products** and **system desig
  - **Languages:** Python, JavaScript, TypeScript, Rust  
  -  **Frontend:** React, HTML, CSS  
 -  **Backend:** Node.js, Express, Django, Flask  
-- **Database:** MySQL, SQLlite3  
+- **Database:** MySQL, SQLlite
 -  **Tools:** Linux, Git, Docker (basic)
 
 
