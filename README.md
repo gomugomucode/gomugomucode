@@ -65,15 +65,8 @@ Currently exploring **AI integration in real-world products** and **system desig
 
 
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
-</p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomugomucode&theme=tokyo-night&hide_border=true" />
-</p> -->
-
+<!-- 
 
 ### 📊  GitHub Analytics
 
@@ -90,6 +83,15 @@ Currently exploring **AI integration in real-world products** and **system desig
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gomugomucode&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" width="325" />
 </div>
 
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gomugomucode/gomugomucode/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p> 
 
 
 ---
