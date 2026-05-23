@@ -22,17 +22,6 @@ Currently exploring **AI integration in real-world products** and **system desig
 
 ---
 
-### ⚙️ What I Build
-
-- 🌐 Scalable Full Stack Web Applications
-- 🧠 AI / ML-powered Systems & Automation
-- ⚙️ Backend APIs & Distributed Systems
-- ⛓️ Blockchain & Web3 Applications
-- 🧩 Developer Tools & System Utilities
-
-- ---
-
-
 
 ## ⚙️ Tech Stack
 
@@ -91,23 +80,12 @@ Currently exploring **AI integration in real-world products** and **system desig
 
 
 ---
+## Connect
 
-## 🎯 Current Focus
+- LinkedIn: https://www.linkedin.com/in/gomugomucode/
+- Email: contact@anupambaral.com.np
+- Medium: https://medium.com/@gomugomucode
 
-- AI-powered applications  
-- Scalable backend architecture  
-- Real-world SaaS projects  
+## Philosophy
 
----
-
-
-### Connect With Me
--  LinkedIn: https://www.linkedin.com/in/gomugomucode/
--  Email:contact@anupambaral.com.np
--  Medium: https://medium.com/@gomugomucode
-
----
-
-### 🧾 Philosophy
-
-“Build systems that are simple, scalable, and production-ready.”
+Simple. Scalable. Production-ready.
