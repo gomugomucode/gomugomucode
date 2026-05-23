@@ -1,7 +1,7 @@
 <!-- Visitor Log Tracker -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=gomugomucode&label=Log%20Entries&color=8A2BE2&style=flat-square" alt="Visitor Entry Count"/>
-
+</p>
 
 <h1 align="center">Hi, I'm Anupam 👋</h1>
 
