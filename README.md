@@ -35,7 +35,7 @@ Currently exploring AI integration in real-world products and scalable system de
 ---
 
 
-###  Featured Projects
+##  Featured Projects
 
 -  **[E-Learning Platform (LMS)](https://github.com/gomugomucode/elearn)**  
   Full-stack learning management system with authentication, course management, and admin dashboard.  
@@ -74,11 +74,13 @@ Currently exploring AI integration in real-world products and scalable system de
 </p>
 
 ---
+
 ## Connect
-- Portfolio: https://www.anupambaral.com.np/
-- LinkedIn: https://www.linkedin.com/in/gomugomucode/
+
+- Portfolio: [anupambaral.com.np](https://www.anupambaral.com.np/)
+- LinkedIn: [linkedin.com/in/gomugomucode](https://www.linkedin.com/in/gomugomucode/)
+- Medium: [medium.com/@gomugomucode](https://medium.com/@gomugomucode)
 - Email: contact@anupambaral.com.np
-- Medium: https://medium.com/@gomugomucode
 
 ## Philosophy
 
