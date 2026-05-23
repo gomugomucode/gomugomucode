@@ -11,9 +11,9 @@
 </p>
 
 
-## 🧭 About Me
+##  About Me
 
-I design and build **production-ready applications** with a focus on:
+I build scalable web applications, APIs, and AI-powered systems.
 - Scalable backend systems
 - Modern frontend experiences
 - AI-powered automation
@@ -23,14 +23,13 @@ Currently exploring **AI integration in real-world products** and **system desig
 ---
 
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
- - **Languages:** Python, JavaScript, TypeScript, Rust  
- -  **Frontend:** React, HTML, CSS  
--  **Backend:** Node.js, Express, Django, Flask  
-- **Database:** MySQL, SQLlite
--  **Tools:** Linux, Git, Docker (basic)
-
+- **Languages:** Python, JavaScript, TypeScript, Rust
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express, Django, Flask
+- **Database:** MySQL, SQLite
+- **Tools:** Linux, Git, Docker
 
 
 <p align="center">
@@ -40,7 +39,7 @@ Currently exploring **AI integration in real-world products** and **system desig
 ---
 
 
-### 🛠️ Featured Projects
+###  Featured Projects
 
 -  **[E-Learning Platform (LMS)](https://github.com/gomugomucode/elearn)**  
   Full-stack learning management system with authentication, course management, and admin dashboard.  
@@ -56,7 +55,7 @@ Currently exploring **AI integration in real-world products** and **system desig
 
 
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"> GitHub Analytics</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gomugomucode&count_private=true&theme=tokyonight&hide_border=true" />
@@ -72,16 +71,15 @@ Currently exploring **AI integration in real-world products** and **system desig
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gomugomucode/gomugomucode/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p> 
-
+  <img width="100%" src="https://raw.githubusercontent.com/gomugomucode/gomugomucode/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 ## Connect
-
+- Portfolio: https://www.anupambaral.com.np/
 - LinkedIn: https://www.linkedin.com/in/gomugomucode/
 - Email: contact@anupambaral.com.np
 - Medium: https://medium.com/@gomugomucode
