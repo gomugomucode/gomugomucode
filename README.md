@@ -3,11 +3,13 @@
   <img src="https://komarev.com/ghpvc/?username=gomugomucode&label=Log%20Entries&color=8A2BE2&style=flat-square" alt="Visitor Entry Count"/>
 
 
-<h1 align="center">Hi, I'm Anupam 👋 </h1>
+<h1 align="center">Hi, I'm Anupam 👋</h1>
+
 <p align="center">
-  <b> IT Student • Full Stack Developer • Python Engineer • AI Systems Builder</b><br/>
-  Focused on backend systems, AI automation, and scalable full-stack applications.
+  Full Stack Developer & AI/ML Engineer from Nepal<br/>
+  React • TypeScript • Python
 </p>
+
 
 ## 🧭 About Me
 
