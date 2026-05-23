@@ -11,15 +11,11 @@
 </p>
 
 
-##  About Me
+## About Me
 
 I build scalable web applications, APIs, and AI-powered systems.
-- Scalable backend systems
-- Modern frontend experiences
-- AI-powered automation
 
-Currently exploring **AI integration in real-world products** and **system design at scale**.
-
+Currently exploring AI integration in real-world products and scalable system design.
 ---
 
 
