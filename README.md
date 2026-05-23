@@ -29,7 +29,7 @@ Currently exploring AI integration in real-world products and scalable system de
 
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,nodejs,express,mysql,linux,git,github,rust&perline=5" />
+ <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,nodejs,express,mysql,linux,git,github,rust&perline=5" alt="anupam-tech-skills />
 </p>
 
 ---
@@ -54,13 +54,13 @@ Currently exploring AI integration in real-world products and scalable system de
 <h2 align="center"> GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gomugomucode&count_private=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" alt="GitHub streak stats src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gomugomucode&count_private=true&theme=tokyonight&hide_border=true" />
   
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=gomugomucode&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+  <img width="49%" alt="GitHub streak stats src="https://github-readme-stats-salesp07.vercel.app/api?username=gomugomucode&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gomugomucode&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" alt="GitHub streak stats src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gomugomucode&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -70,7 +70,7 @@ Currently exploring AI integration in real-world products and scalable system de
 ## Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/gomugomucode/gomugomucode/output/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" alt="GitHub streak stats src="https://raw.githubusercontent.com/gomugomucode/gomugomucode/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
