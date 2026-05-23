@@ -67,7 +67,7 @@ Currently exploring AI integration in real-world products and scalable system de
 
 ---
 
-##  Contribution Snake
+## Contribution Activity
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/gomugomucode/gomugomucode/output/github-contribution-grid-snake-dark.svg" />
