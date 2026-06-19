@@ -11,14 +11,12 @@
   React • TypeScript • Python  • Nextjs
 </p>
 
-
 ## About Me
 
 I build scalable web applications, APIs, and AI-powered systems.
 
 Currently exploring AI integration in real-world products and scalable system design.
 ---
-
 
 ##  Tech Stack
 
@@ -28,13 +26,11 @@ Currently exploring AI integration in real-world products and scalable system de
 - **Database:** MySQL, SQLite
 - **Tools:** Linux, Git, Docker
 
-
 <p align="center">
  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,nodejs,express,mysql,linux,git,github,rust&perline=5" alt="anupam-tech-skills" />
 </p>
 
 ---
-
 
 ##  Featured Projects
 
@@ -45,8 +41,6 @@ Currently exploring AI integration in real-world products and scalable system de
 -  **[Jarvis AI Assistant](https://github.com/gomugomucode/Jarvis)**  
   AI-powered automation assistant for system tasks, APIs, and intelligent responses.
   **Stack:** Python · OpenAI.js · API · Automation Scripts
-
-
 
 ---
 
@@ -64,8 +58,6 @@ Currently exploring AI integration in real-world products and scalable system de
 <p align="center">
   <img width="49%" alt="GitHub streak stats" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gomugomucode&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-
 
 ---
 
