@@ -23,11 +23,11 @@ Currently exploring AI integration in real-world products and scalable system de
 - **Languages:** Python, JavaScript, TypeScript, Rust
 - **Frontend:** React, HTML, CSS
 - **Backend:** Node.js, Express, Django, Flask
-- **Database:** MySQL, SQLite
+- **Database:** MySQL, SQLite , PostgreSql
 - **Tools:** Linux, Git, Docker
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,nodejs,express,mysql,linux,git,github,rust&perline=5" alt="anupam-tech-skills" />
+ <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,nodejs,express,mysql,linux,git,github,rust,postgresql&perline=5" alt="anupam-tech-skills" />
 </p>
 
 ---
