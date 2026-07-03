@@ -13,18 +13,44 @@
 
 ## About Me
 
-I build scalable web applications, APIs, and AI-powered systems.
-
-Currently exploring AI integration in real-world products and scalable system design.
+- 💻 Building full-stack applications with React, Next.js, Python, and Node.js
+- 🤖 Exploring AI engineering and LLM-powered applications
+- 📊 Learning data analysis with NumPy and Pandas
+- ⚡ Interested in scalable system design and backend architecture
+- 🌱 Always building projects to learn new technologies
 ---
 
-##  Tech Stack
+## Tech Stack
 
-- **Languages:** Python, JavaScript, TypeScript, Rust
-- **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express, Django, Flask
-- **Database:** MySQL, SQLite , PostgreSql
-- **Tools:** Linux, Git, Docker
+### Languages
+
+Python • TypeScript • JavaScript • Rust
+
+### Frontend
+
+React • Next.js • Tailwind CSS • HTML • CSS
+
+### Backend
+
+Node.js • Express • Django • Flask
+
+### Database
+
+PostgreSQL • MySQL • SQLite
+
+### Tools
+
+Git • Docker • Linux • GitHub
+
+## Data & AI
+
+Learning and building with:
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- OpenAI APIs
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,nodejs,express,mysql,linux,git,github,rust,postgresql&perline=5" alt="anupam-tech-skills" />
@@ -32,15 +58,37 @@ Currently exploring AI integration in real-world products and scalable system de
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
--  **[E-Learning Platform (LMS)](https://github.com/gomugomucode/elearn)**  
-  Full-stack learning management system with authentication, course management, and admin dashboard.  
-  **Stack:** React · Node.js · Express · MySQL
+### 🎓 E-Learning Platform
 
--  **[Jarvis AI Assistant](https://github.com/gomugomucode/Jarvis)**  
-  AI-powered automation assistant for system tasks, APIs, and intelligent responses.
-  **Stack:** Python · OpenAI.js · API · Automation Scripts
+A complete Learning Management System supporting authentication, course management, student enrollment, and admin dashboards.
+
+**Tech**
+React • Node.js • Express • MySQL
+
+**Highlights**
+
+- JWT Authentication
+- REST API
+- Role-based Access Control
+- Responsive Dashboard
+
+  
+### 🤖 Jarvis AI Assistant
+
+An AI assistant capable of automating workflows, interacting with APIs, and performing intelligent system tasks.
+
+**Tech**
+
+Python • OpenAI API • Automation
+
+**Highlights**
+
+- AI Chat
+- Automation Scripts
+- API Integration
+- Modular Architecture
 
 ---
 
