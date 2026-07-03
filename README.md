@@ -20,40 +20,40 @@
 - 🌱 Always building projects to learn new technologies
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-
-Python • TypeScript • JavaScript • Rust
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust" />
+</p>
 
 ### Frontend
-
-React • Next.js • Tailwind CSS • HTML • CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
 ### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+</p>
 
-Node.js • Express • Django • Flask
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
 
-### Database
-
-PostgreSQL • MySQL • SQLite
+### AI & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
 ### Tools
-
-Git • Docker • Linux • GitHub
-
-## Data & AI
-
-Learning and building with:
-
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- OpenAI APIs
-
-<p align="center">
- <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,nodejs,express,mysql,linux,git,github,rust,postgresql&perline=5" alt="anupam-tech-skills" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
