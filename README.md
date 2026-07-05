@@ -18,7 +18,7 @@
 - 📊 Learning data analysis with NumPy and Pandas
 - ⚡ Interested in scalable system design and backend architecture
 - 🌱 Always building projects to learn new technologies
----
+
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-```
+
 
 
 
@@ -86,7 +86,7 @@ Python • OpenAI API • Automation
 - API Integration
 - Modular Architecture
 
----
+
 
 
 
@@ -103,7 +103,6 @@ Python • OpenAI API • Automation
   <img width="49%" alt="GitHub streak stats" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gomugomucode&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## Contribution Activity
 
@@ -111,7 +110,7 @@ Python • OpenAI API • Automation
   <img width="100%" alt="GitHub streak stats" src="https://raw.githubusercontent.com/gomugomucode/gomugomucode/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+
 
 ## Connect
 
