@@ -11,6 +11,7 @@
   React • TypeScript • Python  • Nextjs
 </p>
 
+
 ## About Me
 
 - 💻 Building full-stack applications with React, Next.js, Python, and Node.js
