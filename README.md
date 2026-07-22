@@ -105,13 +105,11 @@ Python • OpenAI API • Automation
   <img width="49%" alt="GitHub streak stats" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gomugomucode&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
 ## Contribution Activity
 
 <p align="center">
   <img width="100%" alt="GitHub streak stats" src="https://raw.githubusercontent.com/gomugomucode/gomugomucode/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 
 
 ## Connect
