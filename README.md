@@ -50,38 +50,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## Featured Projects
-
-### 🎓 E-Learning Platform
-
-A complete Learning Management System supporting authentication, course management, student enrollment, and admin dashboards.
-
-**Tech**
-React • Node.js • Express • MySQL
-
-**Highlights**
-
-- JWT Authentication
-- REST API
-- Role-based Access Control
-- Responsive Dashboard
-
-  
-### 🤖 Jarvis AI Assistant
-
-An AI assistant capable of automating workflows, interacting with APIs, and performing intelligent system tasks.
-
-**Tech**
-
-Python • OpenAI API • Automation
-
-**Highlights**
-
-- AI Chat
-- Automation Scripts
-- API Integration
-- Modular Architecture
-
 
 ## 🚀 Currently Building
 
