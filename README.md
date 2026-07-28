@@ -19,7 +19,6 @@
 - ⚡ Interested in scalable system design and backend architecture
 - 🌱 Always building projects to learn new technologies
 
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -50,15 +49,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-
 ## 🚀 Currently Building
 
 - 🎓 A production-ready E-Learning Platform
 - 🤖 AI-powered Productivity Assistant
 - 🌐 High-performance Developer Portfolio
 - 📊 Data Analytics & Machine Learning Projects
-
-
 
 <h2 align="center"> GitHub Analytics</h2>
 
