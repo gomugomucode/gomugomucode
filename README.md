@@ -51,7 +51,7 @@
 
 ## 🚀 Currently Building
 
-- 🎓 A production-ready E-Learning Platform
+- 🎓 Production-ready E-Learning Platform
 - 🤖 AI-powered Productivity Assistant
 - 🌐 High-performance Developer Portfolio
 - 📊 Data Analytics & Machine Learning Projects
